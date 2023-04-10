@@ -1,0 +1,10 @@
+table {
+  background-color: black ;
+  color: white;
+  border: aquamarine 5px solid;
+}
+
+table:hover {
+  background-color: lightcyan;
+  color:black;
+}
